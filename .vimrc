@@ -1,4 +1,4 @@
-"set nocompatible
+set nocompatible
 set tabstop=4
 " nnoremap ; :
 let mapleader=','
